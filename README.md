@@ -68,10 +68,12 @@ Speech_Recognition_System/
 ---
 
 📥 Input
+
 Short audio file in WAV format
 Example: sample.wav
 
 📤 Output
+
 Text transcription of the spoken audio
 
 
@@ -83,9 +85,11 @@ python -m venv myvenv
 myvenv\Scripts\activate
 
 2️⃣ Install Dependencies
+
 pip install -r requirements/requirements.txt
 
 ▶️ How to Run the Project
+
 python src/main.py
 
 ---
