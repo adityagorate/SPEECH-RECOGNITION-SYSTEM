@@ -66,7 +66,7 @@ pip install -r requirements/requirements.txt
 python src/main.py
 
 🧪 Sample Output
-
+![Image](https://github.com/user-attachments/assets/44abba3d-d431-4715-bdfe-a1c25bd8f214) 
 
 ✨ Features
 
