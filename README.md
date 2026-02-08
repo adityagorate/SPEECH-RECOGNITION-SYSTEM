@@ -74,8 +74,11 @@ Example: sample.wav
 📤 Output
 Text transcription of the spoken audio
 
+
 ⚙️ Installation & Setup
-1️⃣ Activate Virtual Environment
+
+1️⃣ Create Virtual Environment (Optional)
+python -m venv myvenv  
 myvenv\Scripts\activate
 
 2️⃣ Install Dependencies
